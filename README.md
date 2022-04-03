@@ -3,20 +3,6 @@
 - Interested in mobile app, frontend
 - Have experience with flutter, vue, spring
 
-```
-                                                                      ,-.       _,---._ __  / \
-                                                                     /  )    .-'       `./ /   \
-                                                                    (  (   ,'            `/    /|
-                                                                     \  `-"             \'\   / |
-                                                                      `.              ,  \ \ /  |
-                                                                       /`.          ,'-`----Y   |
-                                                                      (            ;        |   '
-                                                                      |  ,-.    ,-'         |  /
-                                                                      |  | (   |       Bugs | /
-                                                                      )  |  \  `.___________|/    
-                                                                      `--'   `--'
-```
-
 ## Github stats
   
     
